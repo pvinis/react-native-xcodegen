@@ -1,3 +1,7 @@
+# react-native-xcodegen
+
+![](./assets/logos.png)
+
 ## How to use
 
 1. Install xcodegen.
@@ -8,3 +12,8 @@
 1. Find the right project file for your version of React Native used in your project, and copy it into `<YourProject>/ios` and rename it to just `project.yml`.
 1. Run `./ios/make` from your project root dir.
 1. Have fun not caring about the xcodeproj file structure!
+
+### Made possible thanks to:
+[React Native](https://github.com/facebook/react-native)
+[XcodeGen](https://github.com/yonaskolb/XcodeGen)
+[xUnique](https://github.com/truebit/xUnique)
