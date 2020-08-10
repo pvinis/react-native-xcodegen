@@ -14,6 +14,6 @@
 1. Have fun not caring about the xcodeproj file structure!
 
 ### Made possible thanks to:
-[React Native](https://github.com/facebook/react-native)
-[XcodeGen](https://github.com/yonaskolb/XcodeGen)
-[xUnique](https://github.com/truebit/xUnique)
+- [React Native](https://github.com/facebook/react-native)
+- [XcodeGen](https://github.com/yonaskolb/XcodeGen)
+- [xUnique](https://github.com/truebit/xUnique)
