@@ -2,7 +2,7 @@ name: MyProject
 
 options:
   deploymentTarget:
-    iOS: "9.0"
+    iOS: "10.0"
   usesTabs: false
   tabWidth: 2
   indentWidth: 2
