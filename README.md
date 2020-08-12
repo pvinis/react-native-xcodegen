@@ -13,6 +13,8 @@
 1. Run `./make` from inside the `ios` dir of your project.
 1. Have fun not caring about the xcodeproj file structure!
 
+#### Here's my talk about using XcodeGen with React Native → [here](https://github.com/pvinis/talk-xcodegen-rn)
+
 ### Made possible thanks to:
 - [React Native](https://github.com/facebook/react-native)
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen)
