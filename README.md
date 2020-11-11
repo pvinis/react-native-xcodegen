@@ -10,7 +10,7 @@
 `pip install xUnique`
 1. Copy `make` into `<YourProject>/ios`.
 1. Find the right project file for your version of React Native used in your project, and copy it into `<YourProject>/ios` and rename it to just `project.yml`.
-1. Remplace `MyProject` with your project name on `make` and `project.yml`.
+1. Replace `MyProject` with your project name on `make` and `project.yml`.
 1. Run `./make` from inside the `ios` dir of your project.
 1. Have fun not caring about the xcodeproj file structure!
 
